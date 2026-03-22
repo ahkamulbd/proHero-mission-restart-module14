@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "planName": "Basic Plan",
+        "price": 1000,
+        "duration": "Monthly",
+        "features": [
+            "Access to gym equipment",
+            "Locker facility",
+            "1 trainer session per week"
+        ]
+    },
+    {
+        "id": 2,
+        "planName": "Standard Plan",
+        "price": 2500,
+        "duration": "Quarterly",
+        "features": [
+            "Access to gym equipment",
+            "Locker facility",
+            "3 trainer sessions per week",
+            "Free diet chart"
+        ]
+    },
+    {
+        "id": 3,
+        "planName": "Premium Plan",
+        "price": 8000,
+        "duration": "Yearly",
+        "features": [
+            "Unlimited gym access",
+            "Personal trainer",
+            "Diet & nutrition plan",
+            "Access to group classes",
+            "Steam & sauna"
+        ]
+    }
+]
